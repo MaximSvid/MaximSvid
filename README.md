@@ -1,6 +1,6 @@
 ## Hi, I'm Maxim Svidrak 👋  
 
-🚀 **Mobile Developer | Kotlin & Swift Enthusiast | Tech Explorer**  
+🚀 **Mobile Developer | Kotlin & Swift |**  
 
 ---
 
