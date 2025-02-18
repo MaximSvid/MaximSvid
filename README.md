@@ -1,4 +1,36 @@
-## Hi there 👋
+## Hi, I'm Maxim Svidrak 👋  
+
+🚀 **Mobile Developer | Kotlin & Swift Enthusiast | Tech Explorer**  
+
+---
+
+### 🧑‍💻 About Me  
+🎓 I graduated as a **Software Developer** from **Syntax Institut**.  
+🤖 Previously, I studied at university, specializing in **CNC programming and robotics**.  
+📱 Passionate about **mobile development**, building apps with **Kotlin & Swift**.  
+
+---
+
+### 🛠️ Technologies & Tools  
+
+📱 **Mobile Development**: Kotlin, Swift  
+🖼 **UI Frameworks**: Jetpack Compose, SwiftUI  
+🔧 **IDEs**: Android Studio, IntelliJ IDEA, Xcode  
+🎨 **Design Tools**: Figma  
+🗄 **Databases**: Firebase, SQLite  
+
+---
+
+### 📬 Contact Me  
+
+ **LinkedIn**: (https://www.linkedin.com/in/maxim-svidrak-733317300/)
+ **GitHub**: (https://github.com/MaximSvid) 
+
+---
+
+🔥 *Always learning, always building!* 🚀  
+
+
 
 <!--
 **MaximSvid/MaximSvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
