@@ -17,7 +17,7 @@
 🖼 **UI Frameworks**: Jetpack Compose, SwiftUI  
 🔧 **IDEs**: Android Studio, IntelliJ IDEA, Xcode  
 🎨 **Design Tools**: Figma  
-🗄 **Databases**: Firebase, SQLite  
+🗄 **Databases**: Firebase, Room(SQLite), SwiftData  
 
 ---
 
