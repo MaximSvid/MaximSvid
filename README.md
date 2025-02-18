@@ -23,13 +23,9 @@
 
 ### 📬 Contact Me  
 
- **LinkedIn**: [Maxim Svidrak](https://www.linkedin.com/in/maxim-svidrak-733317300/)
- 
+ **LinkedIn**: [Maxim Svidrak](https://www.linkedin.com/in/maxim-svidrak-733317300/) 
  **GitHub**: [Maxim Svidrak](https://github.com/MaximSvid) 
 
----
-
-🔥 *Always learning, always building!* 🚀  
 
 
 
