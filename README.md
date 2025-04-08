@@ -5,7 +5,7 @@
 ---
 
 ### 🧑‍💻 About Me  
-🎓 I graduated as a **Software Developer** from **Syntax Institut**.  
+🎓 I graduated as a **Mobile Developer** from **Syntax Institut**.  
 🤖 Previously, I studied at university, specializing in **CNC programming and robotics**.  
 📱 Passionate about **mobile development**, building apps with **Kotlin & Swift**.  
 
