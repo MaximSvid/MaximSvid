@@ -1,6 +1,6 @@
 ## Hi, I'm Maxim Svidrak 👋  
 
-🚀 **Mobile Developer | Kotlin & Swift |**  
+🚀 **Mobile Developer | Kotlin  Swift Dart |**  
 
 ---
 
@@ -14,10 +14,10 @@
 ### 🛠️ Technologies & Tools  
 
 📱 **Mobile Development**: Kotlin, Swift  
-🖼 **UI Frameworks**: Jetpack Compose, SwiftUI  
-🔧 **IDEs**: Android Studio, IntelliJ IDEA, Xcode  
+🖼 **UI Frameworks**: Jetpack Compose, SwiftUI, Flutter, HML  
+🔧 **IDEs**: Android Studio, IntelliJ IDEA, Xcode, Visual Studio Code  
 🎨 **Design Tools**: Figma  
-🗄 **Databases**: Firebase, Room(SQLite), SwiftData  
+🗄 **Databases**: Firebase, Room(SQLite), SwiftData, Hive  
 
 ---
 
