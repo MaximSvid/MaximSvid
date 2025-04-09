@@ -1,13 +1,13 @@
 ## Hi, I'm Maxim Svidrak 👋  
 
-🚀 **Mobile Developer | Kotlin  Swift Dart |**  
+🚀 **Mobile Developer | Kotlin, Swift and Dart |**  
 
 ---
 
 ### 🧑‍💻 About Me  
 🎓 I graduated as a **Mobile Developer** from **Syntax Institut**.  
 🤖 Previously, I studied at university, specializing in **CNC programming and robotics**.  
-📱 Passionate about **mobile development**, building apps with **Kotlin & Swift**.  
+📱 Passionate about **mobile development**, building apps with **Kotlin, Swift and Dart**.  
 
 ---
 
