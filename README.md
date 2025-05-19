@@ -18,7 +18,7 @@
 🔧 **IDEs**: Android Studio, IntelliJ IDEA, Xcode, Visual Studio Code  
 🎨 **Design Tools**: Figma  
 🗄 **Databases**: Firebase, Room(SQLite), SwiftData, Hive  
-🧪 **Unit Testing** 
+🧪 **Unit Testing**  
 🚀 **CI/CD**: GitHub Actions
 
 ---
