@@ -19,7 +19,6 @@
 🎨 **Design Tools**: Figma  
 🗄 **Databases**: Firebase, Room(SQLite), SwiftData, Hive  
 🧪 **Unit Testing** 
-
 🚀 **CI/CD**: GitHub Actions
 
 ---
